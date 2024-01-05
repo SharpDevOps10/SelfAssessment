@@ -1,64 +1,64 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
-  - Actor model
+  - Actor model: 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used 
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance
+  - Inheritance: 🖐️ used
   - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - instance
+  - instance: 🖐️ used
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 👂 heard
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 🖐️ used
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 🖐️ used
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🎓 known
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
