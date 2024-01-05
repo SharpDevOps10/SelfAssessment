@@ -7,9 +7,9 @@
   - Non-structured programming: 🎓 known
   - Functional programming: 🖐️ used
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🖐️ used
+  - Object-oriented programming: 🙋 explained
   - Object-based programming: 👂 heard
-  - Generic programming
+  - Generic programming: 🎓 known
   - Concurrent computing
   - Asyncronous programming: 🖐️ used
   - Parallel programming: 🎓 known
@@ -19,7 +19,7 @@
   - Domain-specific languages
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming
-  - Actor model: 👂 heard
+  - Actor model: 🖐️ used
 - OOP basics
   - constructor: 🖐️ used
   - new: 🖐️ used
@@ -30,37 +30,37 @@
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance: 🖐️ used
-  - Parent class
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
-  - Encapsulation: 🎓 known
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
   - Hidden class
   - Object form
   - instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Introspection: 🙋 explained
+  - Reflection: 🙋 explained
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method: 🖐️ used
-  - Abstract Factory: 🖐️ used
-  - Adapter: 👂 heard
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy: 🖐️ used
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🙋 explained
   - Chain of Responsibility
-  - Command
+  - Command: 🎓 known
   - Iterator: 🖐️ used
   - State
-  - Bridge
-  - Builder
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
   - Prototype: 🎓 known
   - Composite
-  - Decorator: 👂 heard
-  - Flyweight
-  - Mediator
-  - Memento
+  - Decorator: 🙋 explained
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
   - Template Method
-  - Visitor
+  - Visitor: 👂 heard

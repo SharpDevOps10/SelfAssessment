@@ -24,11 +24,11 @@
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
-  - regular expression: 🖐️ used
-  - interface: 🖐️ used
-  - contract: 🖐️ used
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
+  - contract: 🙋 explained
   - module: 🖐️ used
-  - call stack: 🖐️ used
+  - call stack: 🙋 explained
 - Functions
   - signature: 🖐️ used
   - argument: 🖐️ used
@@ -36,17 +36,17 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 👂 heard
-  - closure: 🖐️ used
+  - closure: 🙋 explained
   - partial application: 🖐️ used
-  - curry: 🎓 known
-  - higher order: 🖐️ used
-  - recursion: 🖐️ used
-  - callback: 🖐️ used
-  - listener: 🖐️ used
-  - compose: 🎓 known
-  - pipe: 🎓 known
+  - curry: 🖐️ used
+  - higher order: 🙋 explained
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🙋 explained
+  - pipe: 🖐️ used
   - memoize: 🖐️ used
-  - wrapper: 🖐️ used
+  - wrapper: 🙋 explained
   - functor: 🎓 known
   - monad: 🎓 known
   - monoid: 🎓 known
@@ -84,9 +84,9 @@
   - polyfill: 🖐️ used
   - debugger: 🖐️ used
   - garbage collection: 🖐️ used
-  - refactoring: 🖐️ used
-  - code review: 🖐️ used
-  - antipatterns: 🎓 known
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
   - paradigm: 🖐️ used
   - algorithm: 🖐️ used
   - magic numbers: 🎓 known
