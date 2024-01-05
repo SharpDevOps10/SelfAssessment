@@ -1,31 +1,31 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
+  - Object: 🙋 explained
+  - this: 🙋 explained
   - arrow function: 🖐️ used
   - async function: 🖐️ used
-  - call: 🖐️ used
-  - bind: 🖐️ used
-  - apply: 🖐️ used
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🙋 explained
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
-  - generator: 🖐️ used
-  - iterator: 🖐️ used
-  - async generator: 🖐️ used
-  - async iterator: 🖐️ used
-  - chaining: 🖐️ used
-  - optional chaining: 🖐️ used
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
+  - async generator: 🙋 explained
+  - async iterator: 🙋 explained
+  - chaining: 🙋 explained
+  - optional chaining: 🙋 explained
   - IIFE: 🖐️ used
-  - global: 🖐️ used
+  - global: 🙋 explained
   - globalThis: 🖐️ used 
   - window: 🎓 known
   - getters and setters: 🖐️ used
-  - __proto__: 🖐️ used
-  - prototype: 🖐️ used
+  - __proto__: 🙋 explained
+  - prototype: 🙋 explained
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
@@ -38,8 +38,8 @@
   - delete: 🖐️ used
   - in: 🖐️ used
   - super: 🖐️ used
-  - Symbol: 🖐️ used 
-  - Reflect: 👂 heard
+  - Symbol: 🙋 explained
+  - Reflect: 🎓 known
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -58,7 +58,7 @@
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
-  - with: 🎓 known
+  - with: 🙋 explained
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
@@ -67,17 +67,17 @@
   - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin: 🖐️ used
+  - mixin: 🙋 explained
   - extend: 🖐️ used
   - typed arrays: 🖐️ used
-  - Map: 🖐️ used
-  - Set: 🖐️ used
+  - Map: 🙋 explained
+  - Set: 🙋 explained
   - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy: 🖐️ used
-  - weak collections: 🖐️ used
+  - weak collections: 🙋 explained
   - timers: 🖐️ used
-  - EventEmitter: 🖐️ used
+  - EventEmitter: 🙋 explained
   - RegExp: 🖐️ used
   - Date: 🖐️ used
   - BigInt: 🖐️ used

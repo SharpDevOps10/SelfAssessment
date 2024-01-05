@@ -3,10 +3,10 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Nonblocking I/O and slocking code: 👂 heard
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -16,19 +16,19 @@
   - node:module: 🖐️ used
   - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 🎓 known
-  - Contexts and scripts node:vm
+  - Contexts and scripts node:vm: 👂 heard
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection: 🖐️ used
-  - DI containers
+  - Dependency injection: 🙋 explained
+  - DI containers: 👂 heard
   - Coupling and cohesion: 🎓 known
   - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used 
-  - Process-based permissions
+  - Process-based permissions: 👂 heard
   - Graceful shutdown: 👂 heard
   - Clustering
   - Watch filesystem changes with --watch
@@ -37,12 +37,12 @@
   - Web Streams API: 👂 heard
   - Crypto API: 🖐️ used
   - Password hashing with node:crypto.scrypt: 🖐️ used
-  - Web Crypto API
+  - Web Crypto API: 👂 heard
   - File system API: sync and async: 🖐️ used
   - Copy folder recursively
-  - Worker threads
+  - Worker threads: 👂 heard
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 👂 heard
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -50,64 +50,64 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer: 👂 heard
-  - node:worker_threads
-  - node:child_process
+  - node:worker_threads: 👂 heard
+  - node:child_process: 🎓 known
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
+  - Generating crypto random UUID: 🎓 known
+  - node:url vs new URL: 🎓 known
   - node:assert: 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer: 👂 heard
-  - Module node:zlib
+  - Blob, File, Buffer, node:buffer: 🎓 known
+  - Module node:zlib: 👂 heard
 - Application structure and architecture
-  - Isolation between layer: 👂 heard
-  - Multilayer approach
-  - Separation of concerns: 👂 heard
-  - Inversion of control: 👂 heard
+  - Isolation between layer: 🎓 known
+  - Multilayer approach: 🖐️ used
+  - Separation of concerns: 🖐️ used
+  - Inversion of control: 🖐️ used
   - Dependency injection: 🖐️ used
-  - GRASP: 👂 heard
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
-  - Distributed systems
+  - GRASP: 🎓 known
+  - SOLID: 🙋 explained
+  - GoF patterns: 🎓 known
+  - Distributed systems: 👂 heard
   - Highload applications
-  - Clean architecture
+  - Clean architecture: 👂 heard
   - DDD: 👂 heard
   - Message Queue
-  - CQS
-  - CQRS
-  - Event sourcing
+  - CQS: 👂 heard
+  - CQRS: 👂 heard
+  - Event sourcing: 🎓 known
   - Load balancing
-  - Serverless clouds
+  - Serverless clouds: 👂 heard
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions: 👂 heard
   - Endpoint throttling
-  - HTTP(S): 🖐️ used
-  - TCP/SSL: 🖐️ used
-  - UDP: 🖐️ used 
-  - TLS
-  - Websocket:  🖐️ used
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🙋 explained
+  - TLS: 🎓 known
+  - Websocket: 🙋 explained
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling: 🖐️ used
   - REST: 🖐️ used
   - RPC
   - Routing: 🖐️ used
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
-  - Path traversal
+  - Path traversal: 👂 heard
   - CSRF
-  - DNS
+  - DNS: 🙋 explained
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
-  - keep-alive
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates
@@ -117,7 +117,7 @@
   - Logging
   - Application configuring
   - Testing: 🖐️ used
-  - CI/CD
+  - CI/CD: 👂 heard
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
@@ -130,11 +130,11 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
+  - Active record: 🙋 explained
+  - Query builder: 🖐️ used
+  - Object-Relational Mapping: 📢 talked
 - Error handling and debugging
   - Error: 🖐️ used
   - error.cause: 👂 heard
@@ -148,8 +148,8 @@
   - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks: 🎓 known
-  - Resource leaks
-  - Data race
+  - Resource leaks: 🎓 known
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons: 🎓 known
   - C and C++ addons
@@ -164,7 +164,7 @@
   - Webassembly C and C++
   - Webassembly Rust
   - Webassembly Zig
-  - Webassembly AssemblyScript
+  - Webassembly AssemblyScript: 👂 heard
   - Shared memory
   - SharedArrayBuffer
   - V8 binary serialization
