@@ -11,34 +11,34 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - node:module: 🖐️ used
+  - Caching in CJS and ESM: 👂 heard
+  - Modules as singletons: 🎓 known
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🖐️ used
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used 
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown: 👂 heard
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
+  - Crypto API: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -49,30 +49,30 @@
   - Deprecated domain API
   - Node.js single executable
   - Stream back pressure
-  - SharedArrayBuffer
+  - SharedArrayBuffer: 👂 heard
   - node:worker_threads
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
   - node:url vs new URL
-  - node:assert
+  - node:assert: 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
+  - Isolation between layer: 👂 heard
   - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Separation of concerns: 👂 heard
+  - Inversion of control: 👂 heard
+  - Dependency injection: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - Distributed systems
   - Highload applications
   - Clean architecture
-  - DDD
+  - DDD: 👂 heard
   - Message Queue
   - CQS
   - CQRS
@@ -86,17 +86,17 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used 
   - TLS
-  - Websocket
+  - Websocket:  🖐️ used
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling: 🖐️ used
+  - REST: 🖐️ used
   - RPC
-  - Routing
+  - Routing: 🖐️ used
   - DoS
   - DDoS
   - XSS
@@ -116,14 +116,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used 
   - Inspector
   - Reliability
   - Quality
@@ -136,22 +136,22 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🖐️ used
+  - error.cause: 👂 heard
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
+  - error.stack: 🖐️ used 
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions: 🎓 known
+  - Heap dump: 👂 heard
+  - Debugging tools: 🎓 known
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 🎓 known
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons
+  - Native addons: 🎓 known
   - C and C++ addons
   - Rust addons
   - Zig addons
